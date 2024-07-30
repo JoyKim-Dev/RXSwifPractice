@@ -7,8 +7,8 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class BasicViewController: UIViewController {
+ let a = 56
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
@@ -17,3 +17,4 @@ class ViewController: UIViewController {
 
 }
 
+    
