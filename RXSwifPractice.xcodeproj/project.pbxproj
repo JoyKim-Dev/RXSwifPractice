@@ -24,6 +24,7 @@
 		354CCD252C5A862300DFF4CC /* AddingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354CCD242C5A862300DFF4CC /* AddingNumbers.swift */; };
 		354CCD272C5A863300DFF4CC /* SimpleValidation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354CCD262C5A863300DFF4CC /* SimpleValidation.swift */; };
 		354CCD292C5A864300DFF4CC /* SimpleTableViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354CCD282C5A864300DFF4CC /* SimpleTableViewExample.swift */; };
+		354CCD2C2C5A978000DFF4CC /* WireFrame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354CCD2B2C5A978000DFF4CC /* WireFrame.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		354CCD242C5A862300DFF4CC /* AddingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingNumbers.swift; sourceTree = "<group>"; };
 		354CCD262C5A863300DFF4CC /* SimpleValidation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleValidation.swift; sourceTree = "<group>"; };
 		354CCD282C5A864300DFF4CC /* SimpleTableViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleTableViewExample.swift; sourceTree = "<group>"; };
+		354CCD2B2C5A978000DFF4CC /* WireFrame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WireFrame.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 				35251AE72C58CD4C0055E56B /* BaseViewController.swift */,
 				35251ABF2C58B5670055E56B /* AppDelegate.swift */,
 				35251AC12C58B5670055E56B /* SceneDelegate.swift */,
+				354CCD2B2C5A978000DFF4CC /* WireFrame.swift */,
 			);
 			path = RXSwifPractice;
 			sourceTree = "<group>";
@@ -181,6 +184,7 @@
 				35251AC42C58B5670055E56B /* BasicButtonViewController.swift in Sources */,
 				354CCD272C5A863300DFF4CC /* SimpleValidation.swift in Sources */,
 				35251AC02C58B5670055E56B /* AppDelegate.swift in Sources */,
+				354CCD2C2C5A978000DFF4CC /* WireFrame.swift in Sources */,
 				35251ADE2C58C5180055E56B /* BasicOperatorViewController.swift in Sources */,
 				35251AD62C58C4C80055E56B /* PickerViewController.swift in Sources */,
 				35251AE82C58CD4C0055E56B /* BaseViewController.swift in Sources */,
