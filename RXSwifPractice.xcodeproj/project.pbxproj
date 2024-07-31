@@ -21,6 +21,9 @@
 		35251AE42C58CD250055E56B /* RxCocoa in Frameworks */ = {isa = PBXBuildFile; productRef = 35251AE32C58CD250055E56B /* RxCocoa */; };
 		35251AE62C58CD250055E56B /* RxSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 35251AE52C58CD250055E56B /* RxSwift */; };
 		35251AE82C58CD4C0055E56B /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35251AE72C58CD4C0055E56B /* BaseViewController.swift */; };
+		354CCD252C5A862300DFF4CC /* AddingNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354CCD242C5A862300DFF4CC /* AddingNumbers.swift */; };
+		354CCD272C5A863300DFF4CC /* SimpleValidation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354CCD262C5A863300DFF4CC /* SimpleValidation.swift */; };
+		354CCD292C5A864300DFF4CC /* SimpleTableViewExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354CCD282C5A864300DFF4CC /* SimpleTableViewExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +40,9 @@
 		35251ADB2C58C4F90055E56B /* UITextFieldViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITextFieldViewController.swift; sourceTree = "<group>"; };
 		35251ADD2C58C5180055E56B /* BasicOperatorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicOperatorViewController.swift; sourceTree = "<group>"; };
 		35251AE72C58CD4C0055E56B /* BaseViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		354CCD242C5A862300DFF4CC /* AddingNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingNumbers.swift; sourceTree = "<group>"; };
+		354CCD262C5A863300DFF4CC /* SimpleValidation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleValidation.swift; sourceTree = "<group>"; };
+		354CCD282C5A864300DFF4CC /* SimpleTableViewExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleTableViewExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,12 +78,15 @@
 		35251ABE2C58B5670055E56B /* RXSwifPractice */ = {
 			isa = PBXGroup;
 			children = (
-				35251AD52C58C4C80055E56B /* PickerViewController.swift */,
 				35251AC32C58B5670055E56B /* BasicButtonViewController.swift */,
+				35251AD52C58C4C80055E56B /* PickerViewController.swift */,
 				35251AD72C58C4DC0055E56B /* TableViewViewController.swift */,
 				35251AD92C58C4E80055E56B /* UISwitchViewController.swift */,
 				35251ADB2C58C4F90055E56B /* UITextFieldViewController.swift */,
 				35251ADD2C58C5180055E56B /* BasicOperatorViewController.swift */,
+				354CCD242C5A862300DFF4CC /* AddingNumbers.swift */,
+				354CCD262C5A863300DFF4CC /* SimpleValidation.swift */,
+				354CCD282C5A864300DFF4CC /* SimpleTableViewExample.swift */,
 				35251AC82C58B5680055E56B /* Assets.xcassets */,
 				35251ACA2C58B5680055E56B /* LaunchScreen.storyboard */,
 				35251ACD2C58B5680055E56B /* Info.plist */,
@@ -168,11 +177,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				35251ADC2C58C4F90055E56B /* UITextFieldViewController.swift in Sources */,
+				354CCD252C5A862300DFF4CC /* AddingNumbers.swift in Sources */,
 				35251AC42C58B5670055E56B /* BasicButtonViewController.swift in Sources */,
+				354CCD272C5A863300DFF4CC /* SimpleValidation.swift in Sources */,
 				35251AC02C58B5670055E56B /* AppDelegate.swift in Sources */,
 				35251ADE2C58C5180055E56B /* BasicOperatorViewController.swift in Sources */,
 				35251AD62C58C4C80055E56B /* PickerViewController.swift in Sources */,
 				35251AE82C58CD4C0055E56B /* BaseViewController.swift in Sources */,
+				354CCD292C5A864300DFF4CC /* SimpleTableViewExample.swift in Sources */,
 				35251AC22C58B5670055E56B /* SceneDelegate.swift in Sources */,
 				35251ADA2C58C4E80055E56B /* UISwitchViewController.swift in Sources */,
 				35251AD82C58C4DC0055E56B /* TableViewViewController.swift in Sources */,
